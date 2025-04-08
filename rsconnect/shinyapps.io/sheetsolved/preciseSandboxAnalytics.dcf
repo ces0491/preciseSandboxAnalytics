@@ -1,0 +1,12 @@
+name: preciseSandboxAnalytics
+title: preciseSandboxAnalytics
+username: sheetsolved
+account: sheetsolved
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14459825
+bundleId: 10077907
+url: https://sheetsolved.shinyapps.io/preciseSandboxAnalytics/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
